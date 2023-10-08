@@ -17,6 +17,8 @@ It is a function that runs when an object starts to pass through another object.
 
 ATTENTION : Don't forget to add the ScoreSystem code to your character.
 
+ATTENTION : For the application to work correctly, the isTrigger in the collider of the object you will collect points from must be active.
+
 ## What you need to do in Unity
 
 - You need to create a text object. To do this, you need to right-click on the hierarchy section and select UI > Text/TextMeshPro.
@@ -48,6 +50,8 @@ public int score = 0; - Skoru değiştirmek için.
 Bir nesne başka bir nesnenin içinden geçmeye başladığında çalışan bir fonksiyondur.
 
 DİKKAT : ScoreSystem kodunu karakterinize eklemeyi unutmayın.
+
+DİKKAT : Uygulamanın doğru çalışabilmesi için puan toplayacağınız nesnenin collider'ındaki isTrigger aktif olmalıdır.
 
 ## Unity'de yapmanız gerekenler
 
