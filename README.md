@@ -1,4 +1,4 @@
-# Trampoline in Unity2D - English
+# Score System in Unity2D - English
 
 With this repository, you can learn "How to Make Score System" in Unity 2D.
 
@@ -34,7 +34,7 @@ ATTENTION : The tag of the object you will collect points for should be "star" (
 
   ----------------------------------------------------------------------------------------------------
 
-  # Unity2D'de Trambolin - Türkçe
+  # Unity2D'de Skor Sistemi - Türkçe
 
 Bu depo ile Unity 2D'de "Skor Sistemi Nasıl Yapılır" öğrenebilirsiniz.
 
