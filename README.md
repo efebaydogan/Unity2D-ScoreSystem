@@ -19,6 +19,8 @@ ATTENTION : Don't forget to add the ScoreSystem code to your character.
 
 ATTENTION : For the application to work correctly, the isTrigger in the collider of the object you will collect points from must be active.
 
+ATTENTION : The tag of the object you will collect points for should be "star" (I made it a star because my object is a star)
+
 ## What you need to do in Unity
 
 - You need to create a text object. To do this, you need to right-click on the hierarchy section and select UI > Text/TextMeshPro.
@@ -52,6 +54,8 @@ Bir nesne başka bir nesnenin içinden geçmeye başladığında çalışan bir 
 DİKKAT : ScoreSystem kodunu karakterinize eklemeyi unutmayın.
 
 DİKKAT : Uygulamanın doğru çalışabilmesi için puan toplayacağınız nesnenin collider'ındaki isTrigger aktif olmalıdır.
+
+DİKKAT : Puan toplayacağınız objenin etiketi "star" olmalı.(Benim objem yıldız olduğu için yıldız yaptım.)
 
 ## Unity'de yapmanız gerekenler
 
