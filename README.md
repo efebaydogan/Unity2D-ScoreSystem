@@ -30,7 +30,7 @@ ATTENTION : The tag of the object you will collect points for should be "star" (
 
 ## Author
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) for design and development.
+- Created by Efe Baydoğan.
 
   ----------------------------------------------------------------------------------------------------
 
@@ -65,4 +65,4 @@ DİKKAT : Puan toplayacağınız objenin etiketi "star" olmalı.(Benim objem yı
 
 ## Yazar
 
-- [Efe Baydoğan](https://www.instagram.com/efebaydogan_) tasarım ve kodlama için.
+- Efe Baydoğan tarafından oluşturuldu.
